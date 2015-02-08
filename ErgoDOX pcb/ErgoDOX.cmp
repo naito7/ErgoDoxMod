@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2012-05-01 BZR 3538)-testing date = Mon 06 Aug 2012 03:14:06 PM CEST
+Cmp-Mod V01 Created by PcbNew date = 2015/02/07 22:22:48
 
 BeginCmp
 TimeStamp = /4FFE119D;
@@ -176,6 +176,13 @@ IdModule  = MX_FLIP_DIODE;
 EndCmp
 
 BeginCmp
+TimeStamp = /54BD3F1E;
+Reference = SW0:13;
+ValeurCmp = SW0:0;
+IdModule  = MX_FLIP_DIODE_WITH_OUTLINE;
+EndCmp
+
+BeginCmp
 TimeStamp = /4D92DF9B;
 Reference = SW1:9;
 ValeurCmp = SW1:4;
@@ -207,7 +214,7 @@ BeginCmp
 TimeStamp = /4D92DFAF;
 Reference = SW1:13;
 ValeurCmp = SW1:0;
-IdModule  = MX_FLIP_DIODE;
+IdModule  = MX_FLIP_DIODE_WITH_OUTLINE;
 EndCmp
 
 BeginCmp
@@ -256,7 +263,14 @@ BeginCmp
 TimeStamp = /4D92DFBB;
 Reference = SW2:13;
 ValeurCmp = SW2:0;
-IdModule  = MX_FLIP_XX;
+IdModule  = MX_FLIP_DIODE_WITH_OUTLINE;
+EndCmp
+
+BeginCmp
+TimeStamp = /54BD43D7;
+Reference = SW3:7;
+ValeurCmp = SW3:6;
+IdModule  = MX_FLIP_DIODE_WITH_OUTLINE;
 EndCmp
 
 BeginCmp
@@ -298,7 +312,7 @@ BeginCmp
 TimeStamp = /4D92DFAD;
 Reference = SW3:13;
 ValeurCmp = SW3:0;
-IdModule  = MX_FLIP_XX;
+IdModule  = MX_FLIP_DIODE_WITH_OUTLINE;
 EndCmp
 
 BeginCmp
@@ -347,7 +361,7 @@ BeginCmp
 TimeStamp = /4D92DF34;
 Reference = SW4:13;
 ValeurCmp = SW4:0;
-IdModule  = MX_FLIP_XX;
+IdModule  = MX_FLIP_DIODE_WITH_OUTLINE;
 EndCmp
 
 BeginCmp
@@ -396,7 +410,7 @@ BeginCmp
 TimeStamp = /4FFD34D4;
 Reference = SW5:13;
 ValeurCmp = SW5:0;
-IdModule  = MX_FLIP_XX;
+IdModule  = MX_FLIP_DIODE_WITH_OUTLINE;
 EndCmp
 
 BeginCmp

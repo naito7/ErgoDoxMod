@@ -1,8 +1,6 @@
-update=Tue 09 Oct 2012 09:10:18 AM CEST
+update=2016/07/03 23:35:17
 version=1
-last_client=pcbnew
-[general]
-version=1
+last_client=kicad
 [eeschema]
 version=1
 LibDir=
@@ -41,3 +39,5 @@ MSegLar=240
 [pcbnew/libraries]
 LibDir=
 LibName1=footprint
+[general]
+version=1

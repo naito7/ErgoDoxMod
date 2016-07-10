@@ -1,9 +1,8 @@
-# Updating keyboard layout
+https://github.com/naito7/NightDox
 
-* Run teensy.app from teensy.dmg
-* Press +L1 then teensy button
-* Open newest .hex file
-* Program
-* Reboot
+kssmのためのキーボード
+夜のお供に
 
-The file https://github.com/bishboria/ergodox-firmware/blob/master/src/keyboard/ergodox/layout/custom-colemak.c has the raw layout of the keys.
+
+ケースはレスト付右手のみjww形式で提供
+ - シフト周りにバグ有なので注意
